@@ -1,4 +1,8 @@
-// 문제 1번 해설 코드
+/*
+ - 문제 1번 해설 코드
+ - TC(테스트 케이스)는 코드 가장 아래에 있습니다.
+*/
+
 #include <iostream>
 #include <algorithm>
 
