@@ -1,8 +1,4 @@
-/*
- 문제 1번 해설 코드
- TC(테스트 케이스)는 코드 가장 아래에 있습니다.
-*/
- 
+// TC(테스트 케이스)는 코드 가장 아래에 있습니다. 
 #include <iostream>
 #include <algorithm>
 
@@ -13,7 +9,6 @@ int score[8] = {20, 15, 10, 5, 4, 3, 2, 1};
 int r, b;
 
 int main(){
-    
     for(int i=0; i<8; i++){
         getline(cin, str[i]);
     }
