@@ -21,7 +21,7 @@ int main(){
     }
     
     if(r == b){
-        if(str[0][9] == 'R') cout << "Red";
+        if(str[0][8] == 'R') cout << "Red";
         else cout << "Blue";
     }else{
         if(r > b) cout << "Red";
